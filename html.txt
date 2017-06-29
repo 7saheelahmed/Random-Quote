@@ -1,0 +1,17 @@
+<body>
+    <div class="container-fluid text-center">
+      <h2>Random Quote Generator</h2>
+		      <img alt="light bulb"  src="http://i57.tinypic.com/107kgfs.png"  class="lightbulb">
+    
+      <!--If the API isn't working this quote by Winston Churchill will be displayed.  -->  
+		      <h1 id="quote">&ldquo;We shall defend our island, whatever the cost may be, we shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender.&rdquo;</h1>
+    
+      <h1 id="author"></h1>
+		
+		      <button id="random">Get A Quote</button>
+          <button id="tweet">Share Quote</button> 
+        
+      </div>
+    
+	   
+</body>
